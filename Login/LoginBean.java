@@ -71,12 +71,6 @@ public class LoginBean {
 		return login_rank;
 	}
 
-	@Override
-	public String toString() {
-		return "LoginBean [login_id=" + login_id + ", login_name=" + login_name + ", login_email=" + login_email
-				+ ", login_password=" + login_password + ", login_rank=" + login_rank + "]";
-	}
-
 	
 	
 
